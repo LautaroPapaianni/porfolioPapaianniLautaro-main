@@ -17,6 +17,9 @@
 
 <body>
     <header class="header">
+    <audio src="../img/bluemoon.mpeg" autoplay>
+<p>If you are reading this, it is because your browser does not support the audio element.</p>
+</audio>
         <div class="u-wrapper">
             <div class="header-content">
                 <!-- <img class="" src="../img/Guts.png" alt=""> -->
